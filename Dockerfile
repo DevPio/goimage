@@ -1,5 +1,5 @@
 # url docker hub
-# https://hub.docker.com/repository/docker/luccaspio/go/general
+# https://hub.docker.com/repository/docker/luccaspio/fullcycle/general
 
 FROM golang:1.13-stretch AS BUILDER
 
